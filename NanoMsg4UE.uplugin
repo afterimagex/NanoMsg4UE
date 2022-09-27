@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NanoMsg4UE",
+	"Description": "good man",
+	"Category": "Other",
+	"CreatedBy": "xpc",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NanoMsg4UE",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

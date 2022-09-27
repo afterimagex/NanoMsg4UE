@@ -1,0 +1,17 @@
+*       text    eol=lf
+*.bat   text    eol=crlf
+*.exe   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.bmp   binary
+*.ico   binary
+*.icns  binary
+*.eot   binary
+*.otf   binary
+*.ttf   binary
+*.woff  binary
+*.woff2 binary
+*.lib   binary
+*.dll   binary
+*.so    binary

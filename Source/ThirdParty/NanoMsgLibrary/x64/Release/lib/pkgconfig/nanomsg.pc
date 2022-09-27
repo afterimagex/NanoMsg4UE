@@ -1,0 +1,13 @@
+prefix=E:/OpenSource/nanomsg/install
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=E:/OpenSource/nanomsg/install/lib
+
+Name: nanomsg
+Description: High-Performance Scalability Protocols
+URL: http://nanomsg.org/
+Version: 1.1.5
+Requires:
+Libs: -L${libdir} -lnanomsg
+Libs.private: -lws2_32 -lmswsock -ladvapi32
+Cflags: -I${includedir}
